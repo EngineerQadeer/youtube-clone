@@ -1,5 +1,5 @@
 // Constants
-const API_KEY = 'AIzaSyDjlqZizGi2tNR7N4E_ErNjV_QrnrQszuk';
+const API_KEY = 'AIzaSyBTksMA33HlOzMrqfu57Bv29eJvr_Z92ts';
 const MAX_RESULTS = 12;
 
 // DOM Elements
